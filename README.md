@@ -1,3 +1,6 @@
+# TEST HEADER
+Thad Guidry
+
 # Welcome
 
 Open Collective is an online funding platform for open and transparent communities. We provide the tools to raise money and share your finances in full transparency.
